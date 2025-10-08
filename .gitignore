@@ -1,12 +1,12 @@
-# Ignore virtual environment 
-venv/ 
+# Ignore virtual environment
+venv/
 
-# Ignore Python cache files 
-__pycache__/ 
-*.pyc 
+# Ignore Python cache files
+__pycache__/
+*.pyc
 
-# Ignore environment files 
-.env 
+# Ignore environment files
+.env
 
-# Ignore other temporary files 
+# Ignore other temporary files
 .DS_Store
